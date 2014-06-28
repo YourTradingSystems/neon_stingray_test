@@ -1,0 +1,9 @@
+/.idea
+/bin
+/gen
+/out
+
+*.properties
+*.iml
+*.txt
+build.xml
